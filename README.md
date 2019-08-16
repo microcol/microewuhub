@@ -2,7 +2,7 @@
  
 This is a Laravel project similar to Google Classroom.
 
-## To use the project download the codes.
+## To run the project download the codes.
 
   * Download The Files
   * Upload the database by the given SQL
